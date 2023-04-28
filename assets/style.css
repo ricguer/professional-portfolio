@@ -145,6 +145,7 @@ nav ul {
 #first-project-card {
     display: flex;
     flex-direction: column;
+    margin: 5%;
 }
 
 #professional-experience-section {
